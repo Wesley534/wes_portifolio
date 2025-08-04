@@ -62,7 +62,7 @@ Feel free to reach out via the [contact form](#contact) on my portfolio website 
 
 ## 📁 How to Run the Project
 
-1. Clone the repository: `git clone https://github.com/Wesley534/portfolio.git`
+1. Clone the repository: `git clone https://github.com/Wesley534/wes_portfolio.git`
 2. Open `index.html` in a web browser to view the portfolio.
 3. Ensure an internet connection for external resources (e.g., Web3Forms).
 

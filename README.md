@@ -2,9 +2,14 @@
 
 Welcome to my personal portfolio website, created as part of the **July 2025 Cohort Hackathon 1: Portfolio Challenge** at PLP Academy! This project showcases my skills, background, and achievements as a full-stack developer with a passion for building innovative and secure web applications.
 
+## Live Version
+To view the hosted site , please visist [Wesley's portfolio](https://weslysportfolio.netlify.app/)
+
 ## 🌟 Project Overview
 
 This portfolio is a reflection of my journey as a developer, highlighting my technical expertise, projects, and aspirations. Below are the key sections included in the portfolio:
+
+
 
 ### 📝 About Me
 
